@@ -1,0 +1,22 @@
+window.CONTRACT_MILESTONES = [
+{phase:'2025 · Mobilização',date:'15/04/2025',offset:'D+120',title:'Conclusão da mobilização MO e montagem de canteiro — início das atividades de pré-montagem',status:'done'},
+{phase:'2026 · Montagem eletromecânica',date:'30/06/2026',offset:'D+561',title:'SE-2036KS-01 — montagem eletromecânica, exceto HVAC e iluminação',status:'done'},
+{phase:'2026 · Montagem eletromecânica',date:'20/07/2026',offset:'D+581',title:'SE-2036KS-01 — montagem de HVAC e iluminação com certificado de completação mecânica',status:'done'},
+{phase:'2026 · Montagem eletromecânica',date:'25/07/2026',offset:'D+586',title:'TRs de saída 09–20 — montagem mecânica, exceto guias de materiais, raspadores e limpadores',status:'done'},
+{phase:'2026 · Montagem eletromecânica',date:'12/08/2026',offset:'D+604',title:'TRs de saída 09–20 — montagem elétrica e instrumentação',status:'done'},
+{phase:'2026 · Montagem eletromecânica',date:'26/10/2026',offset:'D+679',title:'TRs de saída — montagem das correias, guias, raspadores e limpadores com certificado de completação mecânica',status:'ontime',remaining:'20 dias restantes*'},
+{phase:'2026 · Montagem eletromecânica',date:'06/12/2026',offset:'D+720',title:'TRs de expedição 26/27/28 — conclusão da montagem eletromecânica',status:'ontime'},
+{phase:'2026 · Montagem eletromecânica',date:'06/12/2026',offset:'D+720',title:'TR-2091KS-01/02/03 e CT-2091KS-27 — montagem eletromecânica, exceto emenda',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'05/01/2027',offset:'D+750',title:'TR-2036KS-23 — conclusão da montagem eletromecânica',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'03/02/2027',offset:'D+779',title:'TRs de entrada 01/02/03/04 — conclusão da montagem eletromecânica',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'04/02/2027',offset:'D+780',title:'ED-2036KS-01 — conclusão da montagem eletromecânica do edifício de classificação',status:'unknown'},
+{phase:'2027 · Completação e comissionamento',date:'04/02/2027',offset:'D+780',title:'CT-2012KS-27 — conclusão da montagem eletromecânica',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'04/02/2027',offset:'D+780',title:'Tie-in TR-2091KS-03 — conclusão da montagem eletromecânica',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'04/02/2027',offset:'D+780',title:'TR-2012KS-11 — conclusão da montagem eletromecânica',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'14/02/2027',offset:'D+790',title:'SE-2036KS-01 — conclusão da cablagem',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'06/03/2027',offset:'D+810',title:'Tie-in TR-2091KS-02 — conclusão da montagem eletromecânica',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'05/04/2027',offset:'D+840',title:'Tie-in TR-2091KS-01 — conclusão da montagem eletromecânica',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'15/05/2027',offset:'D+880',title:'Conclusão do pré-comissionamento e comissionamento sem carga',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'14/07/2027',offset:'D+940',title:'Conclusão do comissionamento com carga — circuito de classificação',status:'ontime'},
+{phase:'2027 · Completação e comissionamento',date:'12/10/2027',offset:'D+1030',title:'Conclusão da operação assistida — circuito de classificação',status:'ontime'}
+];
