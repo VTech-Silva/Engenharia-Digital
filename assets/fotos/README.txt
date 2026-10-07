@@ -1,0 +1,1 @@
+Coloque fotos de campo aqui, por exemplo tr-09.jpg. Depois associe o caminho em data.js: window.TR_IMAGES = { "09": "assets/fotos/tr-09.jpg" };\n
